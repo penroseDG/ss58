@@ -1,0 +1,13 @@
+{
+  "students": [
+    {
+      "id" : 1 ,
+      "student_name" : "penrose",
+      "email":"penrose@gmail.com",
+      "phone" : "123",
+      "address" : "123 Main St",
+      "status": " ổn ",
+      " created_at" : "2024-11-06T11:00:00Z"
+    }
+  ]
+}
